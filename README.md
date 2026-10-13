@@ -1,30 +1,39 @@
 # Yahya Ali Alali
 
+[العربية](README.ar.md) · [English](README.md) · [Türkçe](README.tr.md)
+
 **Computer Engineer · PhD Student · Technical Writer**
 
-I am a PhD student in Computer Engineering at İstanbul University-Cerrahpaşa. I study how routing decisions can respond to changes in network load and link availability, alongside building software systems and writing technical material in Arabic.
+I am a PhD student in Computer Engineering at Istanbul University-Cerrahpaşa. I study how routing decisions can respond to changes in network load and link availability, alongside building software systems and writing technical material in Arabic.
 
-[Explore my ongoing SDN–MPLS research](https://yahyaalali.com/en/content-library/project/phd-routing/)
+[Intelligent routing and quality of service in SDN–MPLS networks](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/phd-routing/en.md)
 
-![Conceptual network routes and separate control signals; not an experimental result](https://raw.githubusercontent.com/yaheaali92/project-showcase/main/assets/editorial/routing-paths.svg)
+![Intelligent routing and quality of service in SDN–MPLS networks](https://yahyaalali.com/images/editorial/routing-paths-r3.webp)
 
-## Selected work
+Generated conceptual illustration, not an actual interface or research result.
 
-| Project                                                                                              | Focus                                                                             | Stage                               |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------- |
-| [Rawaj](https://yahyaalali.com/en/content-library/project/rawaj/)                                    | A multi-role marketplace connecting application, server and data workflows        | In development                      |
-| [Athar Al-Wird](https://yahyaalali.com/en/content-library/project/athar-wird/)                       | Quran teaching, learning circles and practice follow-up                           | Online; development continues       |
-| [Ashara city portal](https://yahyaalali.com/en/content-library/project/ashara/)                      | A city website with public services and information                               | Live; governorate expansion planned |
-| [Municipal operations](https://yahyaalali.com/en/content-library/project/deir-ezzor-municipalities/) | Activities, projects, tasks and reporting across a developing municipal hierarchy | In development                      |
-| [Sinad](https://yahyaalali.com/en/content-library/project/dental/)                                   | Connected appointment and dental-clinic workflows                                 | Test environment                    |
-| [THIQAH](https://yahyaalali.com/en/content-library/project/thiqah/)                                  | A foundation for organisation identity and documented business relationships      | In development                      |
-| [Academic portfolio](https://yahyaalali.com/en/content-library/project/academic-portfolio/)          | Multilingual publishing, content editing and structured book reading              | Live                                |
+## Selected Research, Engineering and Educational Work
 
-## Technical toolkit
+| Work | Focus | Stage |
+| --- | --- | --- |
+| [Academic Portfolio — from content to a reading experience](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/academic-portfolio/en.md) | A trilingual platform I developed to present my academic and engineering work and manage articles, case studies and a Dart book in an editorial workspace that separates drafts from publication. | Published |
+| [Ashara — city information and services](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/ashara/en.md) | A digital portal bringing Ashara information and service entry points together, with development aimed at extending the experience across Deir Ezzor governorate. | Published |
+| [Athar Al-Wird — organising Quran learning](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/athar-wird/en.md) | An online platform connecting Quran learning circles, groups, plans, sessions and assessment across teacher, student, guardian and administrator roles. | Published |
+| [The Dart Programming Language — an Arabic teaching book](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/dart-book/en.md) | An Arabic-language Dart book in progress, combining explanations, code examples, exercises and solutions, with its first unit available to read. | Manuscript in progress |
+| [Municipal administration — connected levels of work](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/deir-ezzor-municipalities/en.md) | A platform for municipal activities, projects, tasks, tickets and reports, being extended from Deir Ezzor to a Syria–governorate–municipality structure. | In development |
+| [Sinad — organising a doctor's practice and patient appointments](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/dental/en.md) | A role-based application connecting the doctor's workspace and patient appointment journeys, built with Flutter and Firebase and offered through a separate test preview. | Test preview |
+| [Location Analysis — spatial and temporal patterns](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/location-analysis/en.md) | Research tools for locally analysing authorised data exports, connecting location clusters, diversity and temporal distribution with interpretable comparisons. | In development |
+| [Dr Omar Ali Al-Najras Clinic — website and app](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/omar-clinic/en.md) | A website and Android app for a specific dental clinic, connecting doctor and service information with appointment and contact entry points in Arabic, English and Turkish. | Published |
+| [Intelligent routing and quality of service in SDN–MPLS networks](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/phd-routing/en.md) | Doctoral research into routing decisions that respond to changing network load and failed links, evaluating their effect on quality of service in SDN–MPLS networks. | Ongoing research |
+| [Rawaj — engineering a digital marketplace](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/rawaj/en.md) | A multi-role marketplace project connecting sellers, buyers and platform administration, with separate interface, business-service and data responsibilities. | In development |
+| [THIQAH — documenting business-to-business relationships](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/thiqah/en.md) | A B2B trade-network project with identity, organisation and authorisation foundations, working towards documented invoices, receivables, payments and disputes. | In development |
 
-**Languages:** Dart, Python, TypeScript, JavaScript and SQL.  
-**Selected technologies:** Flutter, Astro, Node.js, Firebase/Firestore, PostgreSQL and Redis.
+## Selected toolkit
 
-[Project case studies](https://github.com/yaheaali92/project-showcase) · [Portfolio](https://yahyaalali.com/en/) · [Contact](https://yahyaalali.com/en/contact/)
+**Languages:** Dart, Python, TypeScript, JavaScript, SQL.
 
-Application source code remains private. The public case studies describe my work and distinguish live websites, test environments and development projects.
+**Technologies:** Flutter, Astro, Node.js, Firebase/Firestore, PostgreSQL, Redis.
+
+[Case study](https://github.com/yaheaali92/project-showcase/blob/main/README.md) · [Portfolio](https://yahyaalali.com/en/) · [Contact and reuse enquiries](https://yahyaalali.com/en/contact/)
+
+This repository contains public documentation and presentation material only. Application source code, private development history, owner data and original book files are not included. Conceptual images do not establish operational readiness or research results, and no general reuse licence is granted here.
