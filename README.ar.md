@@ -2,11 +2,11 @@
 
 [العربية](README.ar.md) · [English](README.md) · [Türkçe](README.tr.md)
 
-**مهندس حاسوب · باحث دكتوراه · كاتب تقني**
+**مرشح لنيل الدكتوراه في هندسة الحاسوب**
 
-أتابع الدكتوراه في هندسة الحاسوب بجامعة إسطنبول — جراح باشا. أبحث في استجابة قرارات التوجيه لتغير أحمال الشبكة وحالة الروابط، بالتوازي مع تطوير أنظمة برمجية وكتابة مادة تقنية بالعربية.
+أتابع الدكتوراه في هندسة الحاسوب بجامعة إسطنبول — جراح باشا. أدرس التوجيه التكيفي وجودة الخدمة في شبكات SDN–MPLS الهجينة، باستخدام PPO لاختيار المسار ضمن البحث، وLSTM للتنبؤ المساند. وأطوّر أنظمة برمجية وأكتب محتوى تقنيًا بالعربية.
 
-[التوجيه الذكي وجودة الخدمة في شبكات SDN–MPLS](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/phd-routing/ar.md)
+[التوجيه الذكي وجودة الخدمة في شبكات SDN–MPLS](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/phd-routing/ar.md) · [صفحة بحث الدكتوراه](https://yahyaalali.com/research/phd-routing/)
 
 ![التوجيه الذكي وجودة الخدمة في شبكات SDN–MPLS](https://yahyaalali.com/images/editorial/routing-paths-r3.webp)
 
@@ -21,8 +21,8 @@
 | [أثر الوِرد — متابعة تعلّم القرآن](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/athar-wird/ar.md)                                     | منصة منشورة لتنظيم تعليم القرآن ومتابعته، تربط الحلقات والمجموعات والخطط والجلسات والتقييم بين المعلم والطالب وولي الأمر والإدارة.                      | منشور          |
 | [اللغة البرمجية دارت — كتاب تعليمي عربي](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/dart-book/ar.md)                                | كتاب عربي قيد التأليف لتعلّم Dart، يجمع الشرح المتدرّج والأمثلة البرمجية والتمارين وحلولها، مع وحدتين متاحتين للقراءة.                                  | قيد التأليف    |
 | [منصة إدارة البلديات — تنظيم العمل على مستويات مترابطة](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/deir-ezzor-municipalities/ar.md) | منصة لتنظيم الأنشطة والمشروعات والمهام والتذاكر والتقارير البلدية، تتطور من دير الزور إلى بنية تربط سوريا بمحافظاتها وبلدياتها.                         | قيد التطوير    |
-| [سِناد — تنظيم عمل الطبيب ومواعيد المرضى](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/dental/ar.md)                                  | تطبيق لإدارة مساحة عمل الطبيب والمواعيد وتفاعل المريض، بواجهة Flutter وخدمات Firebase ومعاينة تجريبية منفصلة.                                           | معاينة تجريبية |
-| [تحليل المواقع — قراءة الأنماط المكانية والزمنية](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/location-analysis/ar.md)               | أدوات بحثية للتحليل المحلي لصادرات بيانات مأذونة، تربط تجمع المواقع وتنوعها وتوزعها الزمني بمقارنات قابلة للتفسير.                                      | قيد التطوير    |
+| [سِناد — تنظيم عمل الطبيب ومواعيد المرضى](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/dental/ar.md) | مساحة عمل يملكها الطبيب للمواعيد والسجلات ومخطط الأسنان. جرى التحقق من مسارات محددة ببيانات اصطناعية. | الموقع الرسمي متاح؛ تحقق محدود |
+| [تحليل المواقع — رسالة الماجستير وإعادة البناء](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/location-analysis/ar.md) | رسالة ماجستير مكتملة عام 2024 وورقة مؤتمر IMASCON مشتقة منها ومنشورة على حدة، وإعادة بناء برمجية مستقلة بدأت عام 2026. | الرسالة مكتملة؛ إعادة البناء جارية |
 | [عيادة د. عمر علي النجرس — الموقع والتطبيق](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/omar-clinic/ar.md)                           | موقع وتطبيق Android لعيادة محددة، يجمعان التعريف بالطبيب وخدماته مع مدخل للمواعيد والتواصل، بواجهات عربية وإنجليزية وتركية.                             | منشور          |
 | [التوجيه الذكي وجودة الخدمة في شبكات SDN–MPLS](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/phd-routing/ar.md)                        | بحث دكتوراه يدرس كيف يتكيف قرار مسار البيانات مع تغير أحمال الشبكة وتعطل الروابط، ويقيّم أثره في جودة الخدمة ضمن شبكات SDN–MPLS.                        | بحث جارٍ       |
 | [رواج — هندسة سوق رقمي](https://github.com/yaheaali92/project-showcase/blob/main/case-studies/rawaj/ar.md)                                                     | مشروع سوق رقمي يربط البائع والمشتري وإدارة المنصة، مع فصل واجهة التطبيق وخدمات الأعمال والبيانات وتطوير تدفقات الطلبات والمرتجعات.                      | قيد التطوير    |
@@ -34,6 +34,6 @@
 
 **التقنيات:** Flutter, Astro, Node.js, Firebase/Firestore, PostgreSQL, Redis.
 
-[دراسة الحالة](https://github.com/yaheaali92/project-showcase/blob/main/README.ar.md) · [الموقع الشخصي](https://yahyaalali.com/) · [التواصل والاستفسار عن إعادة الاستخدام](https://yahyaalali.com/contact/)
+[فهرس توثيق المشاريع الكامل](https://github.com/yaheaali92/project-showcase/blob/main/README.ar.md) · [الموقع الشخصي](https://yahyaalali.com) · [LinkedIn](https://www.linkedin.com/in/yahya-ali-alali/) · [ORCID](https://orcid.org/0009-0004-4463-0706) · [التواصل والاستفسار عن إعادة الاستخدام](https://yahyaalali.com/contact/)
 
 هذا المستودع للتوثيق والعرض العام فقط. شيفرة التطبيقات وتاريخ تطويرها الخاص وبيانات المالك وملفات الكتاب الأصلية غير مشمولة. الصور المفاهيمية لا تثبت تشغيلًا أو نتيجة بحثية، ولا تُمنح هنا رخصة عامة لإعادة استخدامها.
